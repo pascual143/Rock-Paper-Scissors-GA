@@ -1,0 +1,13 @@
+body {
+  background-size: cover;
+    justify-content: center;
+    text-align: center;
+}
+
+img {
+  justify-content: space-between;
+}
+
+.result {
+  height: 100px;
+}

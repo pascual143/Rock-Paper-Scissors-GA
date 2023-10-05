@@ -1,4 +1,3 @@
-# c
 ## _Legend Game to play in couples_
 
 

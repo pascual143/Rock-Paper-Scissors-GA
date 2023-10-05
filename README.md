@@ -1,11 +1,35 @@
-# Rock-Paper-Scissors-Lizad-Spoke
+# c
+## _Legend Game to play in couples_
 
-Legend Game maked with HTML, CSS and with a very interesting array in JavaScript
 
-# To start
+Have fun with a game that never get old.
 
-Just send the index.html to your browser and enjoy!
-
-# Link URL
+- ✨ Rock-Paper-Scissors-Lizad-Spoke ✨
+ 
+## Link URL to Play Live
 
 https://rockpaperscissors-bb10e.firebaseapp.com/
+
+## Features
+
+- Multidirectional Array
+- 2 Players
+- Winner
+- Pictures
+
+## Tech
+
+- JavaScript
+- Multidirectional array
+- HTML
+- CSS
+
+## Installation
+
+   Download and add index.html to your Navigator
+
+## License
+
+MIT
+
+**Free Software, Hell Yeah!**

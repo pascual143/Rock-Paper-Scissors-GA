@@ -31,4 +31,4 @@ https://rockpaperscissors-bb10e.firebaseapp.com/
 
 MIT
 
-**Free Software, Hell Yeah!**
+**Free Software for you, Hell Yeah!**

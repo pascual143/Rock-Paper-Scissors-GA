@@ -15,6 +15,7 @@ https://rockpaperscissors-bb10e.firebaseapp.com/
 - 2 Players
 - Winner
 - Pictures
+- Randum
 
 ## Tech
 

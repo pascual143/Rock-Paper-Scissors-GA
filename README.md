@@ -11,9 +11,9 @@ https://rockpaperscissors-bb10e.firebaseapp.com/
 
 ## Features
 
-- Multidirectional Array
+- Multidirectional Arrays
 - 2 Players
-- Winner
+- Winner 
 - Pictures
 - Randum
 

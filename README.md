@@ -5,7 +5,7 @@ Have fun with a game that never get old.
 
 - ✨ Rock-Paper-Scissors-Lizad-Spoke ✨
  
-## Link URL to Play Live
+## Link URL to play Live
 
 https://rockpaperscissors-bb10e.firebaseapp.com/
 
